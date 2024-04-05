@@ -41,7 +41,7 @@ To run the Banking App on your local machine, follow these steps:
 ## Technologies Used
 
 - Java
-- 
+
 **Credits:**
 This code was created by Raj Narayanan
 
